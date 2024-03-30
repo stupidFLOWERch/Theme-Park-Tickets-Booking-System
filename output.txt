@@ -1,0 +1,87 @@
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor asdf is recorded.
+
+The information of the visitor wong_syn_ye is recorded.
+
+
+The visitor with ID: IC1288, information is deleted.
+Ticket No. 1191111101033211504 not found.
+Ticket No. 1191111101033211504 not found.
+Ticket number D not found
+Ticket number 1191111101033211504 not found
+The following record of the visitor is found:
+
+01 116105110103329901 ting_chung_hieng IC12334
+Total visitors:3
+01 116105110103329901 ting_chung_hieng IC12334
+02 116105110103329902 ting_chung_hieng PASS1212
+03 32329711510010203 asdf PASS3456
+
+The visitor with Ticket No.: 32329711510010203, information is deleted.
+
+The following visitors have same names, Please enter the ID to deleted:
+
+
+The visitor with ID: IC12334, information is deleted.
+
+The visitor: ting_chung_hieng information is deleted
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor ting_chung_hiegn is recorded.
+
+The information of the visitor ting_chun_ghieg is recorded.
+
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor ting_chunghieng is recorded.
+
+The information of the visitor ting_chunghieng is recorded.
+
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor tcctct is recorded.
+
+02 11699991169911602 tcctct IC141551
+01 116105110103329901 ting_chung_hieng IC123
+Total visitors:2
+01 116105110103329901 ting_chung_hieng IC123
+02 11699991169911602 tcctct IC141551
+The information of the visitor ting_chung_hieng is recorded.
+
+The information of the visitor asd is recorded.
+
+The information of the visitor qett is recorded.
+
+
+The visitor with Ticket No.: 323211310111611603, information is deleted.
+The information of the visitor Zzxc is recorded.
+
+Total visitors:2
+02 3232329711510002 asd PASS456
+04 3232901221209904 Zzxc IC61616
+
+The visitor with ID: IC61616, information is deleted.
+The following record of the visitor is found:
+
+02 3232329711510002 asd PASS456
+
+The following record of the visitor is found:
+
+02 3232329711510002 asd PASS456
+
+The following record of the visitor is found:
+
+02 3232329711510002 asd PASS456
+
+The visitor: ting_chung_hieng information is deleted
